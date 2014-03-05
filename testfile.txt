@@ -15,3 +15,4 @@ lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ip
 lorem ipsum 
 
 This line was added by another git hub user --> voogie
+This is second line =)
